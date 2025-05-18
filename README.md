@@ -1,9 +1,9 @@
-📊 **Amazon Product Performance Analysis — Power BI Case Study**
+ **Amazon Product Performance Analysis — Power BI Case Study**
 
 🔍 **Project Summary**  
 This project explores **customer behavior** and **product performance** on Amazon using a **sales and reviews dataset**. The analysis focused on understanding how **pricing**, **ratings**, and **reviews** affect **sales volume** and **customer sentiment**. By transforming raw data into **interactive dashboards in Power BI**, the goal was to uncover **actionable insights** for better decision-making in **e-commerce strategy**.
 
-🎯 **Objectives**  
+ **Objectives**  
 - Analyze the relationship between **discount rates** and **customer reviews**  
 - Measure **customer sentiment** across **product categories**  
 - Identify **top-performing product categories** based on **reviews**, **ratings**, and **sales volume**  
@@ -24,11 +24,11 @@ The data required **cleaning and transformation** due to **inconsistent formats*
 - **Microsoft Excel**: Initial data exploration  
 - **DAX Functions**: Custom columns, measures, and KPIs for visual insights
 
-🔑 **Key Insights**  
+ **Key Insights**  
 - **Moderate discounts (25%–50%)** attracted the highest number of reviews  
 - **High discounts (>75%)** often led to **lower review scores**  
 - **84% of reviews were positive**, revealing **strong customer satisfaction**  
 - **Electronics and Home categories** dominated sales
 
-💡 **Takeaways**  
+ **Takeaways**  
 **Pricing strategy** should balance **attracting customers** and **maintaining product quality**. Insights from **customer sentiment** can guide **product improvement** and **targeted marketing**. This case study demonstrates how **interactive dashboards** make **complex data understandable and actionable**.
